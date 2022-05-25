@@ -21,10 +21,10 @@
 # Project information
 site_name: Dart And Flutter
 site_url: https://squidfunk.github.io/mkdocs-material/
-site_author: Martin Donath
+site_author: Sebastian Larrauri
 site_description: >-
-  Create a branded static site from a set of Markdown files to host the
-  documentation of your Open Source or commercial project
+  Aprende todo lo necesario para crear aplicaciones para la web, mobiles y de escritorio
+  con Dart y Flutter. 
 
 # Repository
 repo_name: squidfunk/mkdocs-material
@@ -33,7 +33,7 @@ repo_url: https://github.com/squidfunk/mkdocs-material
 # Copyright
 copyright: Copyright &copy; 2016 - 2022 Martin Donath
 
-# Configuration
+# Configuration 
 theme:
   name: null
   custom_dir: !ENV [THEME_DIR, "overrides"]
@@ -167,7 +167,7 @@ nav:
     - Como usar esta Web: creating-your-site.md
     - Solicitando Ayuda: publishing-your-site.md
     - Customization: customization.md
-    - Browser support: browser-support.md
+    - Browser support: browser-support.md 
     - Philosophy: philosophy.md
     - Alternatives: alternatives.md
     - License: license.md
