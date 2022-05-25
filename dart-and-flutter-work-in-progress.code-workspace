@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"search.followSymlinks": false,
+		"typescript.tsdk": "node_modules/typescript/lib"
+	}
+}

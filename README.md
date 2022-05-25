@@ -19,7 +19,7 @@
 
 ## Contenido
 
-- Basico: Sobre el proyecto, lo que hacemos, quienes somos, como se usa el sitio, formas de contribuir, como esta organizado el sitio.
+- Inicio: Sobre el proyecto, lo que hacemos, quienes somos, como se usa el sitio, formas de contribuir, como esta organizado el sitio.
 - Fundamentos: Fundamentos de la programacion.
 - Dart: Curso de Programacion Dart.
 - Flutter: Curso de Programacion Flutter.
