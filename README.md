@@ -21,18 +21,18 @@ Pueden descargar y ejecutar el proyecto localmente siguiendo estos pasos:
 
 1. Instalar [Python](https://www.python.org/)  
 2. Instalar Material [MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/)   
-   1. En la terminal ejecutar: `pip install mkdocs-material`  
-3. Clonar este Repositorio.  
-   1. `git clone https://github.com/slarrauri/dart-and-flutter-work-in-progress.git`   
-4. Instalar dependencias del proyecto:  
-   1. Desde fuera del directorio del proyecto ejecutar en la terminal: `pip install -e dart-and-flutter-work-in-progress`  
-5. Instalar redirect Plugin  
+   1. En la terminal ejecutar: `pip install mkdocs-material` 
+3. Instalar redirect Plugin  
    1.  En la terminal ejecutar: `pip install mkdocs-redirects`  
 6. Instalar minify Plugin  
-   1.  En la terminal ejecutar: `pip install mkdocs-minify-plugin`  
-7. Para ejecutar y acceder al  proyecto: 
-8. En el directorio del proyecto ejecutar: `Mkdocs Serve` 
-9. El Sitio Web se podra ver entrando en: `http://127.0.0.1:8000/dart-and-flutter-work-in-progress/`
+   1.  En la terminal ejecutar: `pip install mkdocs-minify-plugin`   
+4. Clonar este Repositorio.  
+   1. `git clone https://github.com/slarrauri/dart-and-flutter-work-in-progress.git`   
+5. Instalar dependencias del proyecto:  
+   1. Desde fuera del directorio del proyecto ejecutar en la terminal: `pip install -e dart-and-flutter-work-in-progress`  
+6. Para ejecutar y acceder al  proyecto: 
+   1. En el directorio del proyecto ejecutar: `Mkdocs Serve` 
+   2. El Sitio Web se podrá ver entrando en: `http://127.0.0.1:8000/dart-and-flutter-work-in-progress/`
 
 
 ## Colaboradores
