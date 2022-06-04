@@ -396,4 +396,99 @@ nav:
         - Cross-site scripting: 01_fundamentos/03_como_crear_software/47.md
         - OAuth: 01_fundamentos/03_como_crear_software/48.md
 
+    - Algoritmos y Estructura de Datos: 
+      - Introduccion a los Algoritmos y Estructura de Datos:
+        - Algoritmos informáticos: 01_fundamentos/04_algoritmos_y_estructura_de_datos/01.md
+        - La notación Big O: 01_fundamentos/04_algoritmos_y_estructura_de_datos/02.md
+        - Estructuras de datos: 01_fundamentos/04_algoritmos_y_estructura_de_datos/03.md
+        - Pseudocode: 01_fundamentos/04_algoritmos_y_estructura_de_datos/04.md
+        - Pseudocode basico: 01_fundamentos/04_algoritmos_y_estructura_de_datos/05.md
+        - Flowcharts: 01_fundamentos/04_algoritmos_y_estructura_de_datos/06.md
+
+      - Estructura de Datos: 
+        - Introduccion: 01_fundamentos/04_algoritmos_y_estructura_de_datos/07.md 
+        - Strings: 01_fundamentos/04_algoritmos_y_estructura_de_datos/08.md
+        - Estructuras Lineales:
+          - Matriz de tamaño fijo: 01_fundamentos/04_algoritmos_y_estructura_de_datos/09.md
+          - Lista enlazada simple: 01_fundamentos/04_algoritmos_y_estructura_de_datos/10.md
+          - matriz dinámica: 01_fundamentos/04_algoritmos_y_estructura_de_datos/11.md
+          - Lista doblemente enlazada: 01_fundamentos/04_algoritmos_y_estructura_de_datos/12.md
+        - Tipos de datos de acceso limitado:
+          - Stack: 01_fundamentos/04_algoritmos_y_estructura_de_datos/13.md
+          - Queue: 01_fundamentos/04_algoritmos_y_estructura_de_datos/14.md
+          - Deque: 01_fundamentos/04_algoritmos_y_estructura_de_datos/15.md
+          - Priority queue: 01_fundamentos/04_algoritmos_y_estructura_de_datos/16.md
+          - Circular queue: 01_fundamentos/04_algoritmos_y_estructura_de_datos/17.md
+        - Graphs:       
+          - Graph Básico:
+            - Graph: 01_fundamentos/04_algoritmos_y_estructura_de_datos/18.md
+            - Nodes, cycles and paths: 01_fundamentos/04_algoritmos_y_estructura_de_datos/19.md
+            - Representacion of graphs: 01_fundamentos/04_algoritmos_y_estructura_de_datos/20.md
+          - Tipos de Graphs:
+            - Weighted graph: 01_fundamentos/04_algoritmos_y_estructura_de_datos/21.md
+            - Directed acyclic graph: 01_fundamentos/04_algoritmos_y_estructura_de_datos/22.md
+            - Tree: 01_fundamentos/04_algoritmos_y_estructura_de_datos/23.md
+            - Binary search tree: 01_fundamentos/04_algoritmos_y_estructura_de_datos/24.md
+            - Binary heap: 01_fundamentos/04_algoritmos_y_estructura_de_datos/25.md
+      - Algoritmos: 
+        - Principios y Tecnicas:
+          - Disminuir y conquistar: 01_fundamentos/04_algoritmos_y_estructura_de_datos/26.md
+          - Divide y conquistaras: 01_fundamentos/04_algoritmos_y_estructura_de_datos/27.md
+          - Conceptos básicos de programación dinámica: 01_fundamentos/04_algoritmos_y_estructura_de_datos/28.md
+          - Hashing overview: 01_fundamentos/04_algoritmos_y_estructura_de_datos/29.md
+          - Tabla Hash: 01_fundamentos/04_algoritmos_y_estructura_de_datos/30.md 
+          - String hashing: 01_fundamentos/04_algoritmos_y_estructura_de_datos/31.md
+          - Funcion Hash: 01_fundamentos/04_algoritmos_y_estructura_de_datos/32.md
+          - Hash Collisions: 01_fundamentos/04_algoritmos_y_estructura_de_datos/33.md
+        - Algoritmos de Graph algorithms:
+          - Algoritmos de ruta más corta:
+            - Problema del camino más corto: 01_fundamentos/04_algoritmos_y_estructura_de_datos/34.md
+            - Algoritmo de Floyd-Warshall: 01_fundamentos/04_algoritmos_y_estructura_de_datos/35.md
+            - Algoritmo de Bellman-Ford: 01_fundamentos/04_algoritmos_y_estructura_de_datos/36.md
+            - Algoritmo de Dijkstra: 01_fundamentos/04_algoritmos_y_estructura_de_datos/37.md
+            - Algoritmo de johnson: 01_fundamentos/04_algoritmos_y_estructura_de_datos/38.md
+            - Algoritmo de Lee: 01_fundamentos/04_algoritmos_y_estructura_de_datos/39.md
+            - Comparación de los algoritmos de ruta más corta: 01_fundamentos/04_algoritmos_y_estructura_de_datos/40.md
+          - Algoritmos de conectividad:
+            - Conectividad en grafos: 01_fundamentos/04_algoritmos_y_estructura_de_datos/41.md
+            - Algoritmo de Kosaraju: 01_fundamentos/04_algoritmos_y_estructura_de_datos/42.md
+          - Algoritmos de búsqueda de grafos:
+            - Búsqueda en amplitud: 01_fundamentos/04_algoritmos_y_estructura_de_datos/43.md
+            - Búsqueda en profundidad: 01_fundamentos/04_algoritmos_y_estructura_de_datos/44.md
+            - Recorridos de árboles: 01_fundamentos/04_algoritmos_y_estructura_de_datos/45.md
+          - Topological sorting algorithms sort: 01_fundamentos/04_algoritmos_y_estructura_de_datos/46.md
+          - Algoritmos de árbol de expansión mínimos:
+            - Árbol de expansión: 01_fundamentos/04_algoritmos_y_estructura_de_datos/46.md
+            - Algoritmo de Prim: 01_fundamentos/04_algoritmos_y_estructura_de_datos/46.md
+            - Algoritmo de Kruskal: 01_fundamentos/04_algoritmos_y_estructura_de_datos/46.md
+        - Algoritmos de Array:
+          - Algoritmos de búsqueda:
+            - Problema de búsqueda: 01_fundamentos/04_algoritmos_y_estructura_de_datos/47.md
+            - Búsqueda binaria: 01_fundamentos/04_algoritmos_y_estructura_de_datos/48.md
+            - búsqueda lineal: 01_fundamentos/04_algoritmos_y_estructura_de_datos/49.md
+            - Saltar búsqueda: 01_fundamentos/04_algoritmos_y_estructura_de_datos/50.md
+          - Algoritmos de clasificación:
+            - Problema de clasificación: 01_fundamentos/04_algoritmos_y_estructura_de_datos/51.md
+            - Heapsort: 01_fundamentos/04_algoritmos_y_estructura_de_datos/52.md
+            - Tipo de inserción: 01_fundamentos/04_algoritmos_y_estructura_de_datos/53.md
+            - Ordenar por fusión: 01_fundamentos/04_algoritmos_y_estructura_de_datos/54.md
+            - Ordenación rápida: 01_fundamentos/04_algoritmos_y_estructura_de_datos/55.md
+            - Ordenamiento de burbuja: 01_fundamentos/04_algoritmos_y_estructura_de_datos/56.md
+            - Clasificación de selección: 01_fundamentos/04_algoritmos_y_estructura_de_datos/57.md
+            - clasificación de conteo: 01_fundamentos/04_algoritmos_y_estructura_de_datos/58.md
+        - Algoritmos de String:
+          - Substring search algorithms:
+            - Searching a substring: 01_fundamentos/04_algoritmos_y_estructura_de_datos/59.md
+            - Prefix function: 01_fundamentos/04_algoritmos_y_estructura_de_datos/60.md
+            - Knuth-Morris-Pratt algorithm: 01_fundamentos/04_algoritmos_y_estructura_de_datos/61.md
+            - Rabin-Karp algorithm: 01_fundamentos/04_algoritmos_y_estructura_de_datos/62.md
+          - String similarity:
+            - Edit distance: 01_fundamentos/04_algoritmos_y_estructura_de_datos/63.md
+            - Hamming distance: 01_fundamentos/04_algoritmos_y_estructura_de_datos/64.md
+            - Damerau Levenshtein distance: 01_fundamentos/04_algoritmos_y_estructura_de_datos/65.md
+        - Algoritmos de codificacion de string:
+          - Data compression:
+            - Run Length Encoding: 01_fundamentos/04_algoritmos_y_estructura_de_datos/66.md
+
+
   
