@@ -171,8 +171,6 @@ nav:
     - Colabora: 00_comencemos/Colabora.md
 
   - Fundamentos: 
-    - 01_fundamentos/index.md
-
     - Principios Básicos: 
       - Introducción a la Programación: 
         - ¿Porqué Aprender a Programar?: 01_fundamentos/01_principios_basicos/01_introduccion_a_la_programacion/01.md
@@ -230,3 +228,100 @@ nav:
         - Domains: 01_fundamentos/01_principios_basicos/05_la_web/06.md
         - HTTP Basic Auth: 01_fundamentos/01_principios_basicos/05_la_web/07.md
         - IP: 01_fundamentos/01_principios_basicos/05_la_web/08.md
+
+    - Herramientas: 
+        - IDEs:
+          - VSCode: 01_fundamentos/02_herramientas/01_ides/01.md
+          - IntelliJ Idea: 
+            - Introducción: 01_fundamentos/02_herramientas/01_ides/02.md
+            - Conceptos Básico: 01_fundamentos/02_herramientas/01_ides/03.md
+            - Configuraciones: 01_fundamentos/02_herramientas/01_ides/04.md
+            - Navegar por el Código: 01_fundamentos/02_herramientas/01_ides/05.md
+            - Escribiendo Código: 01_fundamentos/02_herramientas/01_ides/06.md
+            - Arreglando el Código: 01_fundamentos/02_herramientas/01_ides/07.md
+            - EduTools: 01_fundamentos/02_herramientas/01_ides/08.md
+          - Android Studio: 01_fundamentos/02_herramientas/01_ides/09.md
+        
+        - Builds:
+          - Intro: 01_fundamentos/02_herramientas/02_builds/01.md
+          - Gradle: 01_fundamentos/02_herramientas/02_builds/02.md
+          - Make: 01_fundamentos/02_herramientas/02_builds/03.md
+        
+        - Terminal:
+          - Basico:
+            - Introduccion a la Linea de Comandos: 01_fundamentos/02_herramientas/03_terminal/01.md
+            - Parámetros y Opciones: 01_fundamentos/02_herramientas/03_terminal/02.md
+            - Ayuda: 01_fundamentos/02_herramientas/03_terminal/03.md
+            - Navegando entre direcotrios: 01_fundamentos/02_herramientas/03_terminal/04.md
+          - Trabajando con Archivos:
+            - Modos de Archivos y Permisos: 01_fundamentos/02_herramientas/03_terminal/05.md
+            - Copiar y Borrar Archivos: 01_fundamentos/02_herramientas/03_terminal/06.md
+            - Buscando Ejecutables: 01_fundamentos/02_herramientas/03_terminal/07.md
+            - Encontrar Exec: 01_fundamentos/02_herramientas/03_terminal/08.md
+            - Description de Archivos y Pipes: 01_fundamentos/02_herramientas/03_terminal/09.md
+            - Explorando carpetas y archivos: 01_fundamentos/02_herramientas/03_terminal/10.md
+            - Viendo archivos en el Shell: 01_fundamentos/02_herramientas/03_terminal/11.md
+            - Buscando Archivos: 01_fundamentos/02_herramientas/03_terminal/12.md
+            - Archivar y Extraer Datos: 01_fundamentos/02_herramientas/03_terminal/13.md
+          - Bash:
+            - Mi primer Programa en Bash: 01_fundamentos/02_herramientas/03_terminal/14.md
+            - Funciones y Argumentos: 01_fundamentos/02_herramientas/03_terminal/15.md
+            - Variables y Alias: 01_fundamentos/02_herramientas/03_terminal/16.md
+            - Operaciones Artimeticas: 01_fundamentos/02_herramientas/03_terminal/17.md
+            - Análisis de argumentos y declaraciones de casos: 01_fundamentos/02_herramientas/03_terminal/18.md
+            - Mejores prácticas para scripts de bash: 01_fundamentos/02_herramientas/03_terminal/19.md
+            - Declaraciones condicionales y comprobaciones de prueba: 01_fundamentos/02_herramientas/03_terminal/20.md
+            - Bucles y secuencias: 01_fundamentos/02_herramientas/03_terminal/21.md
+          - Procesamiento de Texto: 
+            - Opciones básicas de Grep: 01_fundamentos/02_herramientas/03_terminal/22.md
+            - Grep opciones útiles: 01_fundamentos/02_herramientas/03_terminal/23.md
+            - Clasificación y deduplicación: 01_fundamentos/02_herramientas/03_terminal/24.md
+            - Introducción al procesamiento de textos wc, cut, tr: 01_fundamentos/02_herramientas/03_terminal/25.md
+          - Manejando Procesos:
+            - Aplicaciones de control con señales: 01_fundamentos/02_herramientas/03_terminal/26.md
+            - Obtener información sobre los procesos.: 01_fundamentos/02_herramientas/03_terminal/27.md
+            - Trabajos en primer plano y en segundo plano: 01_fundamentos/02_herramientas/03_terminal/28.md
+            - Monitoreo básico: 01_fundamentos/02_herramientas/03_terminal/29.md
+          - Manejo de Redes:
+            - Obtener datos de la red: 01_fundamentos/02_herramientas/03_terminal/30.md
+            - Comprobación de recursos externos: 01_fundamentos/02_herramientas/03_terminal/31.md
+            - SSH: 01_fundamentos/02_herramientas/03_terminal/32.md
+          - Automatizacion de Tareas: 01_fundamentos/02_herramientas/03_terminal/33.md
+          - Manejo de Paquetes: 
+            - Homebrew package manager: 01_fundamentos/02_herramientas/03_terminal/34.md
+            - Package manager yum/dnf: 01_fundamentos/02_herramientas/03_terminal/35.md
+            - Package manager APT: 01_fundamentos/02_herramientas/03_terminal/36.md
+            - Chocolate: 01_fundamentos/02_herramientas/03_terminal/37.md
+        
+        - GitHub:
+          - Comenzando GitHub: 01_fundamentos/02_herramientas/04_github/01.md
+          - Fork and pull request: 01_fundamentos/02_herramientas/04_github/02.md
+          - Trabajo Local: 01_fundamentos/02_herramientas/04_github/03.md
+        
+        - Cliente Http (Postman): 01_fundamentos/02_herramientas/05_cliente_http/01.md
+        
+        - Navegadores (Chrome Dev Tools): 01_fundamentos/02_herramientas/06_navegadores/01.md
+        
+        - Git:
+          - Comenzando con Git: 01_fundamentos/02_herramientas/07_git/01.md
+          - repositorio local: 01_fundamentos/02_herramientas/07_git/02.md
+          - Ramas Git: 01_fundamentos/02_herramientas/07_git/03.md
+          - Git rebase: 01_fundamentos/02_herramientas/07_git/04.md
+          - Trabajando con repositorio remoto: 01_fundamentos/02_herramientas/07_git/05.md
+          - Estructura interna de Git: 01_fundamentos/02_herramientas/07_git/06.md
+          - Editando el commit: 01_fundamentos/02_herramientas/07_git/07.md
+          - Buscando con git: 01_fundamentos/02_herramientas/07_git/08.md
+          - Introducción a Gitflow: 01_fundamentos/02_herramientas/07_git/09.md
+          - Ramas auxiliares de Gitflow: 01_fundamentos/02_herramientas/07_git/10.md
+        
+        - Docker:
+          - Introducción a docker: 01_fundamentos/02_herramientas/08_docker/01.md
+          - Ejecute el contenedor docker "hello-world": 01_fundamentos/02_herramientas/08_docker/02.md
+          - Operaciones básicas con un contenedor: 01_fundamentos/02_herramientas/08_docker/03.md
+        
+        - Plataformas Cloud:
+          - Heroku: 01_fundamentos/02_herramientas/09_plataformas_cloud/01.md
+          - AWS: 01_fundamentos/02_herramientas/09_plataformas_cloud/02.md
+          - Google Cloud: 01_fundamentos/02_herramientas/09_plataformas_cloud/03.md
+          - Microsoft Azure: 01_fundamentos/02_herramientas/09_plataformas_cloud/04.md
+  
