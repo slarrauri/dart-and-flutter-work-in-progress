@@ -32,7 +32,7 @@ repo_name: slarrauri/dart-and-flutter-work-in-progress
 repo_url: https://github.com/slarrauri/dart-and-flutter-work-in-progress
 
 # Copyright
-copyright: Copyright &copy; 2016 - 2022 Martin Donath
+copyright: Copyright &copy; 2022 Dart And Flutter
 
 # Configuration 
 theme:
@@ -108,16 +108,14 @@ extra:
     provider: google
     property: !ENV GOOGLE_ANALYTICS_KEY
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/slarrauri
-    - icon: fontawesome/brands/gitter
-      link: https://gitter.im/slarrauri/dart-and-flutter-work-in-progress
-    - icon: fontawesome/brands/docker
-      link: https://hub.docker.com/r/slarrauri/dart-and-flutter-work-in-progress/
-    - icon: fontawesome/brands/python
-      link: https://pypi.org/project/dart-and-flutter-work-in-progress/
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/slarrauri
+      link: https://twitter.com/DartAndFlutter
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/dartandflutter.ar/
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/dartandflutter.ar
+    - icon: fontawesome/brands/github
+      link: https://github.com/DartAndFlutter-ar
 
 # Extensions
 markdown_extensions:
@@ -594,13 +592,12 @@ nav:
   - Flutter: 03_flutter/index.md 
   - Proyectos: 
     - 04_proyectos/index.md
-    - Dart:
+    - Dart: 
       - Firma ASCHII: 04_proyectos/01_dart/firma_aschii.md
       - Api Fecha y Hora: 04_proyectos/01_dart/api_fecha_y_hora.md
       - Rick and Morty Api: 04_proyectos/01_dart/rick_and_morty_api.md
     - Flutter:
       - Rick And Morty Dashboard: 04_proyectos/02_flutter/rick_and_morty_dashboard.md 
-
 
 
   

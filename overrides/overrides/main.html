@@ -1,18 +1,29 @@
-{#-
-  This file was automatically generated - do not edit
--#}
 {% extends "base.html" %}
 {% block extrahead %}
   <link rel="stylesheet" href="{{ 'overrides/assets/stylesheets/main.8464ae1a.min.css' | url }}">
 {% endblock %}
 {% block announce %}
-  <a href="https://twitter.com/squidfunk">
-    For updates follow <strong>@squidfunk</strong> on
+  <a target="_blank" href="https://twitter.com/DartAndFlutter">
     <span class="twemoji twitter">
       {% include ".icons/fontawesome/brands/twitter.svg" %}
     </span>
-    <strong>Twitter</strong>
   </a>
+  <a target="_blank" href="https://www.instagram.com/dartandflutter.ar/">
+    <span class="twemoji twitter">
+      {% include ".icons/fontawesome/brands/instagram.svg" %}
+    </span>
+  </a>
+  <a target="_blank" href="https://www.facebook.com/dartandflutter.ar">
+    <span class="twemoji twitter">
+      {% include ".icons/fontawesome/brands/facebook.svg" %}
+    </span>
+  </a>
+  <a target="_blank" href="https://github.com/DartAndFlutter-ar">
+    <span class="twemoji twitter">
+      {% include ".icons/fontawesome/brands/github.svg" %}
+    </span>
+  </a>
+
 {% endblock %}
 {% block content %}
   {% include "overrides/partials/content.html" %}
