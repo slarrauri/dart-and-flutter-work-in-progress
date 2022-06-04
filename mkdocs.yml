@@ -590,11 +590,17 @@ nav:
       - Consejos y reglas de diseño: 01_fundamentos/06_ui_ux/09.md
       - Arquitectura informacional: 01_fundamentos/06_ui_ux/10.md
 
-  - Dart: index.md
-  - Flutter: index.md
-  - Proyectos: index.md
-  - Desafíos: index.md
-  - Noticias: index.md
-  - Dona: index.md
+  - Dart: 02_dart/index.md
+  - Flutter: 03_flutter/index.md 
+  - Proyectos: 
+    - 04_proyectos/index.md
+    - Dart:
+      - Firma ASCHII: 04_proyectos/01_dart/firma_aschii.md
+      - Api Fecha y Hora: 04_proyectos/01_dart/api_fecha_y_hora.md
+      - Rick and Morty Api: 04_proyectos/01_dart/rick_and_morty_api.md
+    - Flutter:
+      - Rick And Morty Dashboard: 04_proyectos/02_flutter/rick_and_morty_dashboard.md 
+
+
 
   
