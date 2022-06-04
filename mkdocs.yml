@@ -17,18 +17,19 @@
 # LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 # FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 # IN THE SOFTWARE.
+# https://github.com/slarrauri/dart-and-flutter-work-in-progress.git
 
 # Project information
 site_name: Dart And Flutter
-site_url: https://squidfunk.github.io/mkdocs-material/
+site_url: https://slarrauri.github.io/dart-and-flutter-work-in-progress/
 site_author: Sebastian Larrauri
 site_description: >-
   Aprende todo lo necesario para crear aplicaciones para la web, mobiles y de escritorio
   con Dart y Flutter. 
 
 # Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: slarrauri/dart-and-flutter-work-in-progress
+repo_url: https://github.com/slarrauri/dart-and-flutter-work-in-progress
 
 # Copyright
 copyright: Copyright &copy; 2016 - 2022 Martin Donath
@@ -108,15 +109,15 @@ extra:
     property: !ENV GOOGLE_ANALYTICS_KEY
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/squidfunk
+      link: https://github.com/slarrauri
     - icon: fontawesome/brands/gitter
-      link: https://gitter.im/squidfunk/mkdocs-material
+      link: https://gitter.im/slarrauri/dart-and-flutter-work-in-progress
     - icon: fontawesome/brands/docker
-      link: https://hub.docker.com/r/squidfunk/mkdocs-material/
+      link: https://hub.docker.com/r/slarrauri/dart-and-flutter-work-in-progress/
     - icon: fontawesome/brands/python
-      link: https://pypi.org/project/mkdocs-material/
+      link: https://pypi.org/project/dart-and-flutter-work-in-progress/
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/squidfunk
+      link: https://twitter.com/slarrauri
 
 # Extensions
 markdown_extensions:
@@ -144,8 +145,8 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.magiclink:
       repo_url_shorthand: true
-      user: squidfunk
-      repo: mkdocs-material
+      user: slarrauri
+      repo: dart-and-flutter-work-in-progress
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.superfences:

@@ -19,9 +19,21 @@ Para comenzar lo único que tiene que hacer es ir a http://dartandflutter.ar y c
 ## Descargas
 Pueden descargar y ejecutar el proyecto localmente siguiendo estos pasos: 
 
-1. Instalar Material MkDocs https://squidfunk.github.io/mkdocs-material/getting-started/ 
-2. Clonar este Repositorio.
-3. Correr en la terminal: `Mkdocs Serve`
+1. Instalar [Python](https://www.python.org/)  
+2. Instalar Material [MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/)   
+   1. En la terminal ejecutar: `pip install mkdocs-material`  
+3. Clonar este Repositorio.  
+   1. `git clone https://github.com/slarrauri/dart-and-flutter-work-in-progress.git`   
+4. Instalar dependencias del proyecto:  
+   1. Desde fuera del directorio del proyecto ejecutar en la terminal: `pip install -e dart-and-flutter-work-in-progress`  
+5. Instalar redirect Plugin  
+   1.  En la terminal ejecutar: `pip install mkdocs-redirects`  
+6. Instalar minify Plugin  
+   1.  En la terminal ejecutar: `pip install mkdocs-minify-plugin`  
+7. Para ejecutar y acceder al  proyecto: 
+8. En el directorio del proyecto ejecutar: `Mkdocs Serve` 
+9. El Sitio Web se podra ver entrando en: `http://127.0.0.1:8000/dart-and-flutter-work-in-progress/`
+
 
 ## Colaboradores
 Dart And Flutter es un proyecto auto sustentado, por lo que cualquier colaboración es bienvenida. 
@@ -54,7 +66,7 @@ Para conocer como colaborar con contenido escríbenos a: dartyflutter@gmail.com
 - Proyecto Relacionado: Proyecto que se puede desarrollar adquiriendo los conocimientos expuestos.
 
 ## Funcionalidades
-- Compartir en redes sociales (TODO)  
-- Buscador (DONE)  
-- Tags (TODO)  
-- Examenes (TODO)
+[ ] Compartir en redes sociales  
+[X] Buscador  
+[ ] Tags  
+[ ] Examenes  
