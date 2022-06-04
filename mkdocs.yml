@@ -522,17 +522,73 @@ nav:
           - Hierarchical database model: 01_fundamentos/05_base_de_datos/12.md
           - Network model: 01_fundamentos/05_base_de_datos/13.md
           - Graph databases: 01_fundamentos/05_base_de_datos/14.md
+      - SQL Basico:
+        - What is SQL: 01_fundamentos/05_base_de_datos/15.md
+        - Basic data types: 01_fundamentos/05_base_de_datos/16.md
+        - Literals: 01_fundamentos/05_base_de_datos/17.md
+        - Arithmetic expressions: 01_fundamentos/05_base_de_datos/18.md
+        - The NULL value: 01_fundamentos/05_base_de_datos/19.md
+        - String operations: 01_fundamentos/05_base_de_datos/20.md
+        - Comments in SQL: 01_fundamentos/05_base_de_datos/21.md
+        - Code style: 01_fundamentos/05_base_de_datos/22.md
+        - Basic CREATE statement: 01_fundamentos/05_base_de_datos/23.md
+        - Composite indexes: 01_fundamentos/05_base_de_datos/24.md
+        - Basic SELECT statement: 01_fundamentos/05_base_de_datos/25.md
+        - SELECT FROM statement: 01_fundamentos/05_base_de_datos/26.md
+        - Logic and comparison expressions: 01_fundamentos/05_base_de_datos/27.md
+        - GROUP BY statement: 01_fundamentos/05_base_de_datos/28.md
+        - Results ordering: 01_fundamentos/05_base_de_datos/29.md
+        - Types of JOINs: 01_fundamentos/05_base_de_datos/30.md
+        - Special WHERE operators: 01_fundamentos/05_base_de_datos/31.md
+        - Limit and Offset: 01_fundamentos/05_base_de_datos/32.md
+        - Aggregate functions: 01_fundamentos/05_base_de_datos/33.md
+        - Window functions: 01_fundamentos/05_base_de_datos/34.md
+        - Set operations: 01_fundamentos/05_base_de_datos/35.md
+        - Conditional functions: 01_fundamentos/05_base_de_datos/36.md
+        - Basic DELETE statement: 01_fundamentos/05_base_de_datos/37.md
+        - Basic INSERT statement: 01_fundamentos/05_base_de_datos/38.md
+        - Inserting selected rows: 01_fundamentos/05_base_de_datos/39.md
+        - Basic UPDATE statement: 01_fundamentos/05_base_de_datos/40.md
+        - Updating selected rows: 01_fundamentos/05_base_de_datos/41.md
+        - Subqueries: 01_fundamentos/05_base_de_datos/42.md
+        - Grant, Revoke: 01_fundamentos/05_base_de_datos/43.md
+        - Understanding Transactions: 01_fundamentos/05_base_de_datos/44.md
+      - DBMS:
+        - SQLite: 01_fundamentos/05_base_de_datos/45.md
+        - MySQL:
+          - Intro to MySQL: 01_fundamentos/05_base_de_datos/46.md          
+          - Views: 01_fundamentos/05_base_de_datos/47.md
+          - Stored Procedures: 01_fundamentos/05_base_de_datos/48.md
+          - Alter table: 01_fundamentos/05_base_de_datos/49.md
+          - PRIMARY KEY constraint: 01_fundamentos/05_base_de_datos/50.md
+          - Consistency constraints: 01_fundamentos/05_base_de_datos/51.md
+          - FOREIGN KEY constraint: 01_fundamentos/05_base_de_datos/52.md
+          - JSON data type: 01_fundamentos/05_base_de_datos/53.md
+          - Date & Time data types: 01_fundamentos/05_base_de_datos/54.md
+          - Explain plan: 01_fundamentos/05_base_de_datos/55.md
+        - MongoDB:        
+          - Introduction to MongoDB: 01_fundamentos/05_base_de_datos/56.md
+          - Creating a database in MongoDB: 01_fundamentos/05_base_de_datos/57.md
+          - Create Operations: 01_fundamentos/05_base_de_datos/58.md
+          - Read Operations: 01_fundamentos/05_base_de_datos/59.md
+          - Delete Operations in MongoDB: 01_fundamentos/05_base_de_datos/60.md
+          - Update Operations: 01_fundamentos/05_base_de_datos/61.md
+          - Document data model: 01_fundamentos/05_base_de_datos/62.md
+          - MongoDB VS Relational databases: 01_fundamentos/05_base_de_datos/63.md
+        - Introduction to PostgreSQL: 01_fundamentos/05_base_de_datos/64.md
+
+
     - UI/UX:
-      - interfaz de usuario/experiencia de usuario: 01_fundamentos/04_algoritmos_y_estructura_de_datos/01.md
-      - Introducción a la interfaz de usuario/UX: 01_fundamentos/04_algoritmos_y_estructura_de_datos/02.md
-      - Cuadrículas de diseño: 01_fundamentos/04_algoritmos_y_estructura_de_datos/03.md
-      - Elementos de interfaz: 01_fundamentos/04_algoritmos_y_estructura_de_datos/04.md
-      - fuentes: 01_fundamentos/04_algoritmos_y_estructura_de_datos/05.md
-      - Campos de entrada y etiquetas de campo: 01_fundamentos/04_algoritmos_y_estructura_de_datos/06.md
-      - Retroalimentación: 01_fundamentos/04_algoritmos_y_estructura_de_datos/07.md
-      - Colores: 01_fundamentos/04_algoritmos_y_estructura_de_datos/08.md
-      - Consejos y reglas de diseño: 01_fundamentos/04_algoritmos_y_estructura_de_datos/09.md
-      - Arquitectura informacional: 01_fundamentos/04_algoritmos_y_estructura_de_datos/10.md
+      - interfaz de usuario/experiencia de usuario: 01_fundamentos/06_ui_ux/01.md
+      - Introducción a la interfaz de usuario/UX: 01_fundamentos/06_ui_ux/02.md
+      - Cuadrículas de diseño: 01_fundamentos/06_ui_ux/03.md
+      - Elementos de interfaz: 01_fundamentos/06_ui_ux/04.md
+      - fuentes: 01_fundamentos/06_ui_ux/05.md
+      - Campos de entrada y etiquetas de campo: 01_fundamentos/06_ui_ux/06.md
+      - Retroalimentación: 01_fundamentos/06_ui_ux/07.md
+      - Colores: 01_fundamentos/06_ui_ux/08.md
+      - Consejos y reglas de diseño: 01_fundamentos/06_ui_ux/09.md
+      - Arquitectura informacional: 01_fundamentos/06_ui_ux/10.md
 
   - Dart: index.md
   - Flutter: index.md
