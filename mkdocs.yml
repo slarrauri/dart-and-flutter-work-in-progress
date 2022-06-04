@@ -324,4 +324,76 @@ nav:
           - AWS: 01_fundamentos/02_herramientas/09_plataformas_cloud/02.md
           - Google Cloud: 01_fundamentos/02_herramientas/09_plataformas_cloud/03.md
           - Microsoft Azure: 01_fundamentos/02_herramientas/09_plataformas_cloud/04.md
+
+  
+    - Como Crear Software: 
+      - Introducción El concepto de patrones: 01_fundamentos/03_como_crear_software/01.md
+      
+      - Distribución de Software:
+        - Librerías: 01_fundamentos/03_como_crear_software/02.md
+        - Frameworks: 01_fundamentos/03_como_crear_software/03.md
+        - Mapeo de Datos y Objetos: 01_fundamentos/03_como_crear_software/04.md
+        - Mapeo de Objetos Relacional (ORM): 01_fundamentos/03_como_crear_software/05.md
+        - Versionado Semantico: 01_fundamentos/03_como_crear_software/06.md
+        - Compiladores e Interpretes: 01_fundamentos/03_como_crear_software/07.md
+      
+      - Calidad de Software:
+        - Documentacion: 01_fundamentos/03_como_crear_software/08.md
+        - Que es un Bug: 01_fundamentos/03_como_crear_software/09.md
+        - Testing Funcional: 01_fundamentos/03_como_crear_software/10.md
+        - Unit testing: 01_fundamentos/03_como_crear_software/11.md
+        - Introduccion al Loggin: 01_fundamentos/03_como_crear_software/12.md
+        - Introduccion al Debugging : 01_fundamentos/03_como_crear_software/13.md
+        - Codigo auto documentado: 01_fundamentos/03_como_crear_software/14.md
+      
+      - Arquetectura del Software:
+        - Introduccion a la arquitectutra de Software: 01_fundamentos/03_como_crear_software/15.md
+        - Diagrama de clases: 01_fundamentos/03_como_crear_software/16.md
+        - Introduccion a las Api: 01_fundamentos/03_como_crear_software/17.md
+        - Patrondes de Arquitectura (MVC): 01_fundamentos/03_como_crear_software/18.md
+      
+      - Patrones de Diseño:
+        - Patrones Creacionales: 
+          - Introduccion a los Patrones Creacionales: 01_fundamentos/03_como_crear_software/19.md
+          - Singleton: 01_fundamentos/03_como_crear_software/20.md
+          - Abstract factory: 01_fundamentos/03_como_crear_software/21.md
+          - Factory Method and Prototype: 01_fundamentos/03_como_crear_software/22.md
+          - Builder pattern: 01_fundamentos/03_como_crear_software/23.md
+
+        - Patrones Estructurales: 
+          - Introduccion a los Patrones Estructurales: 01_fundamentos/03_como_crear_software/24.md
+          - Flyweight pattern: 01_fundamentos/03_como_crear_software/25.md
+          - Facade pattern: 01_fundamentos/03_como_crear_software/26.md
+          - Decorator pattern: 01_fundamentos/03_como_crear_software/27.md
+          - Composite pattern: 01_fundamentos/03_como_crear_software/28.md
+          - Bridge pattern: 01_fundamentos/03_como_crear_software/29.md
+          - Adapter pattern: 01_fundamentos/03_como_crear_software/30.md
+
+      - Introduccion al los principios de diseño y Solid:
+        - Principios de Diseño: 01_fundamentos/03_como_crear_software/31.md
+        - Principio de responsabilidad unica: 01_fundamentos/03_como_crear_software/32.md
+        - Principio de segregación de interfaz: 01_fundamentos/03_como_crear_software/33.md
+        - Principio de sustitución de Liskov: 01_fundamentos/03_como_crear_software/34.md
+        - Principio abierto/cerrado: 01_fundamentos/03_como_crear_software/35.md
+
+      - Modelos de desarrollos e Software:
+        - Introduccion a los modelos de desarrollo: 01_fundamentos/03_como_crear_software/36.md
+        - Ciclo de desarrollo : 01_fundamentos/03_como_crear_software/37.md
+        - Desarrollo Agil: 01_fundamentos/03_como_crear_software/38.md
+        - Kanban: 01_fundamentos/03_como_crear_software/39.md
+        - Roles y responsabilidades: 01_fundamentos/03_como_crear_software/40.md
+
+      - Técnicas de Programación: 
+        - Pedido y pedido total: 01_fundamentos/03_como_crear_software/41.md
+        - Ordenación de objetos compuestos: 01_fundamentos/03_como_crear_software/42.md
+        - Expresiones regulares: 01_fundamentos/03_como_crear_software/43.md
+      
+      - DevOps: 01_fundamentos/03_como_crear_software/44.md
+
+      - Seguridad: 
+        - Seguridad Web, OWASP: 01_fundamentos/03_como_crear_software/45.md
+        - SQL injections: 01_fundamentos/03_como_crear_software/46.md
+        - Cross-site scripting: 01_fundamentos/03_como_crear_software/47.md
+        - OAuth: 01_fundamentos/03_como_crear_software/48.md
+
   
