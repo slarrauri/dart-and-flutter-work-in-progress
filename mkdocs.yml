@@ -164,62 +164,69 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Comencemos: 
-    - 00_comencemos/index.md 
+    - Dart And Flutter: 00_comencemos/DartAndFlutter.md 
     - Nosotros: 00_comencemos/Nosotros.md
     - Etiquetas: 00_comencemos/Etiquetas.md
     - Glosario: 00_comencemos/Glosario.md
     - Colabora: 00_comencemos/Colabora.md
+
   - Fundamentos: 
     - 01_fundamentos/index.md
-    - Básico: 
-      - 01_fundamentos/01_basico/index.md   
-      - Intro a la Programación: 
-        - 01_fundamentos/01_basico/01_intro/index.md
-        - ¿Porqué Aprender a Programar?: 01_fundamentos/01_basico/01_intro/PorqueAprenderaProgramar.md
-        - Campos de La Programación: 01_fundamentos/01_basico/01_intro/CamposdeLaProgramacion.md
-        - Pensar como Programador: 01_fundamentos/01_basico/01_intro/PensarcomoProgramador.md
-        - Componentes del Pensamiento Lógico: 01_fundamentos/01_basico/01_intro/ComponentesdelPensamientoLogico.md
-        - Programación de Computadoras: 01_fundamentos/01_basico/01_intro/ProgramaciondeComputadoras.md
-        - Paradigmas: 01_fundamentos/01_basico/01_intro/Paradigmas.md
-        - Funciones: 01_fundamentos/01_basico/01_intro/Funciones.md
-        - Recursion: 01_fundamentos/01_basico/01_intro/Recursion.md
-        - Inmutabilidad: 01_fundamentos/01_basico/01_intro/Inmutabilidad.md
-        - Expresiones Aritméticas: 01_fundamentos/01_basico/01_intro/ExpresionesAritmeticas.md
-        - Otros recursos: 01_fundamentos/01_basico/01_intro/Otrosrecursos.md  
+
+    - Principios Básicos: 
+      - Introducción a la Programación: 
+        - ¿Porqué Aprender a Programar?: 01_fundamentos/01_principios_basicos/01_introduccion_a_la_programacion/01.md
+        - Campos de La Programación: 01_fundamentos/01_principios_basicos/01_introduccion_a_la_programacion/02.md
+        - Pensar como Programador: 01_fundamentos/01_principios_basicos/01_introduccion_a_la_programacion/03.md
+        - Componentes del Pensamiento Lógico: 01_fundamentos/01_principios_basicos/01_introduccion_a_la_programacion/04.md
+        - Programación de Computadoras: 01_fundamentos/01_principios_basicos/01_introduccion_a_la_programacion/05.md
+        - Paradigmas: 01_fundamentos/01_principios_basicos/01_introduccion_a_la_programacion/06.md
+        - Funciones: 01_fundamentos/01_principios_basicos/01_introduccion_a_la_programacion/07.md
+        - Recursion: 01_fundamentos/01_principios_basicos/01_introduccion_a_la_programacion/08.md
+        - Inmutabilidad: 01_fundamentos/01_principios_basicos/01_introduccion_a_la_programacion/09.md
+        - Expresiones Aritméticas: 01_fundamentos/01_principios_basicos/01_introduccion_a_la_programacion/10.md
+        - Otros recursos: 01_fundamentos/01_principios_basicos/01_introduccion_a_la_programacion/11.md  
+
       - Programación Orientada a Objetos(POO): 
-        - 01_fundamentos/02_poo/index.md
-        - Introducción a la POO: 01_fundamentos/02_poo/IntroduccionalaPOO.md
-        - Herencia: 01_fundamentos/02_poo/Herencia.md
-        - Encapsulado: 01_fundamentos/02_poo/Encapsulado.md
-        - Polimorfismo: 01_fundamentos/02_poo/Polimorfismo.md
-        - Interfaces: 01_fundamentos/02_poo/Interfaces.md
+        - Introducción a la POO: 01_fundamentos/01_principios_basicos/02_poo/01.md
+        - Herencia: 01_fundamentos/01_principios_basicos/02_poo/02.md
+        - Encapsulado: 01_fundamentos/01_principios_basicos/02_poo/03.md
+        - Polimorfismo: 01_fundamentos/01_principios_basicos/02_poo/04.md
+        - Interfaces: 01_fundamentos/01_principios_basicos/02_poo/05.md
+
       - Estándares y Formatos: 
-        - 01_fundamentos/index.md
+        - Unidades de Información: 01_fundamentos/01_principios_basicos/03_estandares_y_formatos/01.md
+        - Estándares de Fecha y Hora: 01_fundamentos/01_principios_basicos/03_estandares_y_formatos/02.md
+        - Unicode: 01_fundamentos/01_principios_basicos/03_estandares_y_formatos/03.md
+        - JSON: 01_fundamentos/01_principios_basicos/03_estandares_y_formatos/04.md
+        - XML: 01_fundamentos/01_principios_basicos/03_estandares_y_formatos/05.md
+        - YAML: 01_fundamentos/01_principios_basicos/03_estandares_y_formatos/06.md
+        - CSV: 01_fundamentos/01_principios_basicos/03_estandares_y_formatos/07.md
+        - Markdown: 01_fundamentos/01_principios_basicos/03_estandares_y_formatos/08.md
+        - Markdown Extendido: 01_fundamentos/01_principios_basicos/03_estandares_y_formatos/09.md
+
       - Sistemas Operativos: 
-        - 01_fundamentos/index.md
+        - Introducción a los Sistemas Operativos: 01_fundamentos/01_principios_basicos/04_sistemasd_operativos/01.md
+        - Archivos: 01_fundamentos/01_principios_basicos/04_sistemasd_operativos/02.md
+        - Tipo de Archivos: 01_fundamentos/01_principios_basicos/04_sistemasd_operativos/03.md
+        - Sincrónico Asíncrono Paralelo: 01_fundamentos/01_principios_basicos/04_sistemasd_operativos/04.md
+        - Procesos e hilos: 01_fundamentos/01_principios_basicos/04_sistemasd_operativos/05.md
+        - Procesos e hilos dentro de las computadoras: 01_fundamentos/01_principios_basicos/04_sistemasd_operativos/06.md
+        - Introducción a Linux: 01_fundamentos/01_principios_basicos/04_sistemasd_operativos/07.md
+        - Modo de Archivos y Permisos: 01_fundamentos/01_principios_basicos/04_sistemasd_operativos/08.md
+        - Containers: 01_fundamentos/01_principios_basicos/04_sistemasd_operativos/09.md
+        - Visualización: 01_fundamentos/01_principios_basicos/04_sistemasd_operativos/10.md
+        - Memoria: 01_fundamentos/01_principios_basicos/04_sistemasd_operativos/11.md
+        - Componentes de la Computadora: 01_fundamentos/01_principios_basicos/04_sistemasd_operativos/12.md
+        - Memoria Virtual: 01_fundamentos/01_principios_basicos/04_sistemasd_operativos/13.md
+        - Manejo de Memoria: 01_fundamentos/01_principios_basicos/04_sistemasd_operativos/14.md
+
       - La Web: 
-        - 01_fundamentos/index.md
-      - Como hacer Software: 
-        - 01_fundamentos/index.md
-      - Técnicas de Programación: 
-        - 01_fundamentos/index.md
-      - DevOps: 
-        - 01_fundamentos/index.md
-      - Seguridad: 
-        - 01_fundamentos/index.md
-    - Avanzado: 
-      - index.md
-      - Herramientas de Desarrollo: index.md
-      - Algoritmos y Estructura de Datos: fundamentos/index.md
-      - Base de Datos: fundamentos/index.md
-      - UI/UX: fundamentos/index.md
-  - Dart: index.md
-  - Flutter: index.md
-  - Proyectos: index.md
-  - Desafíos: index.md
-  - Noticias: index.md
-  - Dona: index.md
-
-
-
- 
+        - World Wide Web: 01_fundamentos/01_principios_basicos/05_la_web/01.md
+        - HyperText Transfer Protocol: 01_fundamentos/01_principios_basicos/05_la_web/02.md
+        - HTTP URL: 01_fundamentos/01_principios_basicos/05_la_web/03.md
+        - HTTP messages: 01_fundamentos/01_principios_basicos/05_la_web/04.md
+        - REST: 01_fundamentos/01_principios_basicos/05_la_web/05.md
+        - Domains: 01_fundamentos/01_principios_basicos/05_la_web/06.md
+        - HTTP Basic Auth: 01_fundamentos/01_principios_basicos/05_la_web/07.md
+        - IP: 01_fundamentos/01_principios_basicos/05_la_web/08.md
